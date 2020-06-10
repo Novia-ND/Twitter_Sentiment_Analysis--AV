@@ -41,7 +41,7 @@ also we have a frontend webpages where we integrated ML model into this using Fl
 
 <p align="center">
   <a href="">
-    <img src=https://github.com/Lance-Dsilva/Twitter_Sentiment_Analysis--AV/blob/master/screenshots/Screenshot%20(262).png?raw=true" alt="Logo" width="800" height="400">
+    <img src="https://github.com/Novia-2018/Twitter_Sentiment_Analysis--AV/blob/master/screenshots/Screenshot%20(264).png?raw=true" alt="Logo" width="800" height="400">
     </a></p>
 
 <p align="center">
